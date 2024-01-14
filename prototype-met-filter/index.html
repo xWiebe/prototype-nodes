@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Asset Map</title>
+</head>
+
+<body>
+    <div id="navbar">
+        <button onclick="toggleRoles()">Roles</button>
+        <div id="roles-container" style="display: none;">
+            <label>
+                <input type="radio" name="role" value="both" checked onchange="updateRole()"> Both
+            </label>
+            <label>
+                <input type="radio" name="role" value="gas" onchange="updateRole()"> Gas
+            </label>
+            <label>
+                <input type="radio" name="role" value="helium" onchange="updateRole()"> Helium
+            </label>
+        </div>
+    </div>
+    <div id="map-container">
+        <div id="map"></div>
+    </div>
+    <div id="asset-list-container">
+        <div>
+            <h3>Assets within filter range</h3>
+        </div>
+        <div>
+            <ul id="asset-list" class="nodelist"></ul>
+        </div>
+    </div>
+    <div id="radius-controls">
+        <div id="geofence-center-settings-container" style="display: none;">
+            <div class="divide">
+                <label for="geoCenter">Geofence Center</label>
+            </div>
+            <div class="divide">
+                <input type="text" id="geoCenter" />
+            </div>
+            <div class="divide">
+                <button id="setGeofenceCenter">Update geoCenter</button>
+            </div>
+            <div class="divide">
+                <button onclick="useRealTimeLocation()">Use Real-Time Location</button>
+            </div>
+        </div>
+        <div class="divide">
+            <button onclick="toggleGeofenceCenterSettings()">Geofence Center Settings</button>
+        </div>
+    </div>
+    <div id="geofence-controls">
+        <div class="divide">
+            <label for="geofenceRadius">Radius (in km): </label>
+        </div>
+        <div class="divide">
+            <input type="text" id="geofenceRadius" />
+        </div>
+    </div>
+    <div id="filter-controls" style="display: none;">
+        <div class="divide">
+            <label for="assetTypeFilter">Filter by Asset Type:</label>
+        </div>
+        <div class="divide">
+            <select id="assetTypeFilter" onchange="updateAssetFilter()">
+                <option value="all">All</option>
+                <option value="Gas">Gas</option>
+                <option value="Helium">Helium</option>
+            </select>
+        </div>
+    </div>
+    <div id="alarm-status-controls" class="divide">
+        <label for="alarmStatusDropdown">Filter by Alarm Status:</label>
+        <select id="alarmStatusDropdown" onchange="updateAlarmStatusFilter()">
+            <option value="all" selected>All</option>
+            <option value="critical">Critical</option>
+            <option value="major">Major</option>
+            <option value="minor">Minor</option>
+        </select>
+    </div>
+    <div class="divide">
+        <button onclick="updateFilters()">Update Filters</button>
+    </div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJyfhAoFHvcTnp3dGpMH_foR6lKE-CxNs&libraries=geometry&callback=initMap"
+        async defer></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>

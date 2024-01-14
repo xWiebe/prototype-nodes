@@ -1,0 +1,7002 @@
+[
+  {
+    "name": "Tank-Y6T21",
+    "longitude": 7.933527,
+    "latitude": 49.946408,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S2NFT",
+    "longitude": 9.321616,
+    "latitude": 54.149608,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GG5SO",
+    "longitude": 7.613622,
+    "latitude": 48.468059,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EQ7JL",
+    "longitude": 7.369873,
+    "latitude": 47.80784,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3W06T",
+    "longitude": 13.493342,
+    "latitude": 50.649368,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4TJDO",
+    "longitude": 12.496906,
+    "latitude": 51.576075,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RFX5U",
+    "longitude": 14.64474,
+    "latitude": 52.894238,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-V0NAB",
+    "longitude": 13.510177,
+    "latitude": 50.275519,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-176OZ",
+    "longitude": 9.765326,
+    "latitude": 50.910409,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R8QR6",
+    "longitude": 10.327258,
+    "latitude": 47.601006,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2SCXK",
+    "longitude": 6.781252,
+    "latitude": 52.697921,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M4UHH",
+    "longitude": 6.388601,
+    "latitude": 47.677492,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P4QTV",
+    "longitude": 6.310901,
+    "latitude": 48.737545,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D420N",
+    "longitude": 6.853542,
+    "latitude": 48.91333,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PZ9FA",
+    "longitude": 7.212292,
+    "latitude": 47.820374,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4RTP9",
+    "longitude": 14.066918,
+    "latitude": 53.493869,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IFKHA",
+    "longitude": 7.455216,
+    "latitude": 54.870365,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NX3DZ",
+    "longitude": 8.327988,
+    "latitude": 54.815641,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UPGZS",
+    "longitude": 10.237598,
+    "latitude": 54.60849,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q817T",
+    "longitude": 10.231421,
+    "latitude": 51.385666,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WQS4S",
+    "longitude": 9.766408,
+    "latitude": 48.694658,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WMG0E",
+    "longitude": 12.867253,
+    "latitude": 51.592993,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2A7AZ",
+    "longitude": 10.132698,
+    "latitude": 49.326913,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BD499",
+    "longitude": 11.981528,
+    "latitude": 51.484708,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TJK3V",
+    "longitude": 13.709432,
+    "latitude": 51.372684,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X329E",
+    "longitude": 9.232346,
+    "latitude": 50.070607,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-422O8",
+    "longitude": 10.341476,
+    "latitude": 51.032282,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MEUUZ",
+    "longitude": 13.304843,
+    "latitude": 48.815415,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BYBKM",
+    "longitude": 11.974438,
+    "latitude": 51.822944,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UV4Z0",
+    "longitude": 11.605774,
+    "latitude": 49.063917,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IZQ4S",
+    "longitude": 5.823493,
+    "latitude": 53.982361,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NITAF",
+    "longitude": 8.448312,
+    "latitude": 52.035907,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BE8CX",
+    "longitude": 9.488853,
+    "latitude": 53.578387,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C1MSW",
+    "longitude": 6.605013,
+    "latitude": 50.580125,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MG9F8",
+    "longitude": 11.655153,
+    "latitude": 54.270625,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CMB1P",
+    "longitude": 5.864436,
+    "latitude": 48.842464,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0YFDH",
+    "longitude": 7.641288,
+    "latitude": 52.950972,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3YQQ5",
+    "longitude": 13.187205,
+    "latitude": 54.094829,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-66AV5",
+    "longitude": 7.389637,
+    "latitude": 50.528892,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-65LX4",
+    "longitude": 14.568688,
+    "latitude": 49.406937,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O957Z",
+    "longitude": 8.391109,
+    "latitude": 49.716453,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-COOZ2",
+    "longitude": 11.503099,
+    "latitude": 53.883775,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5MHQJ",
+    "longitude": 11.900824,
+    "latitude": 50.016859,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KI2OE",
+    "longitude": 9.074795,
+    "latitude": 47.493298,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8CZK3",
+    "longitude": 10.602273,
+    "latitude": 50.112442,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6GDWP",
+    "longitude": 11.074577,
+    "latitude": 51.894072,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VO29W",
+    "longitude": 7.117039,
+    "latitude": 49.565372,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RA6K4",
+    "longitude": 13.586689,
+    "latitude": 51.012305,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AQKCK",
+    "longitude": 7.083193,
+    "latitude": 52.484757,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3H4NN",
+    "longitude": 12.843023,
+    "latitude": 54.183565,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7NJZE",
+    "longitude": 5.888526,
+    "latitude": 51.664278,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3R9HD",
+    "longitude": 7.578873,
+    "latitude": 50.847886,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-35AP2",
+    "longitude": 11.76217,
+    "latitude": 50.593414,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8YGBI",
+    "longitude": 9.518681,
+    "latitude": 54.360819,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-W18FS",
+    "longitude": 12.118646,
+    "latitude": 54.865696,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZHJZ2",
+    "longitude": 14.836313,
+    "latitude": 49.569122,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X9OD2",
+    "longitude": 13.275406,
+    "latitude": 54.51857,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FDF2H",
+    "longitude": 7.932373,
+    "latitude": 48.592545,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VXMVQ",
+    "longitude": 9.485407,
+    "latitude": 49.103818,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2MAAS",
+    "longitude": 10.58444,
+    "latitude": 49.387278,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KB9YJ",
+    "longitude": 8.281558,
+    "latitude": 54.374625,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q2F4V",
+    "longitude": 10.847278,
+    "latitude": 48.738178,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0W152",
+    "longitude": 14.363238,
+    "latitude": 52.322792,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-T8XGA",
+    "longitude": 11.59347,
+    "latitude": 54.006514,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BNUB9",
+    "longitude": 7.049233,
+    "latitude": 53.269531,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9FSFT",
+    "longitude": 5.839718,
+    "latitude": 50.512091,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N76QK",
+    "longitude": 6.754255,
+    "latitude": 54.827627,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YSEJ1",
+    "longitude": 7.690016,
+    "latitude": 52.365885,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KH5Y2",
+    "longitude": 9.602322,
+    "latitude": 48.992159,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4DHGI",
+    "longitude": 7.773672,
+    "latitude": 48.09415,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4VMSJ",
+    "longitude": 14.012129,
+    "latitude": 49.43761,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I79KR",
+    "longitude": 9.14207,
+    "latitude": 49.908638,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VNEFQ",
+    "longitude": 12.000216,
+    "latitude": 53.921456,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-08RK3",
+    "longitude": 14.581547,
+    "latitude": 51.341684,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-THK9I",
+    "longitude": 9.467704,
+    "latitude": 52.898403,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GX61B",
+    "longitude": 14.333136,
+    "latitude": 52.339071,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PKKDR",
+    "longitude": 12.901151,
+    "latitude": 51.747388,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0S1UR",
+    "longitude": 14.784751,
+    "latitude": 52.268954,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VIG0U",
+    "longitude": 14.576096,
+    "latitude": 54.578066,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-01PAO",
+    "longitude": 7.624848,
+    "latitude": 51.673995,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5EBKD",
+    "longitude": 12.181708,
+    "latitude": 51.561115,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NMETY",
+    "longitude": 7.399799,
+    "latitude": 50.190777,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X543U",
+    "longitude": 7.861005,
+    "latitude": 50.825549,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4L8RV",
+    "longitude": 9.31106,
+    "latitude": 53.490965,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0JPIT",
+    "longitude": 12.292141,
+    "latitude": 51.456346,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0HXNT",
+    "longitude": 6.242559,
+    "latitude": 50.752592,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UK4CO",
+    "longitude": 12.527133,
+    "latitude": 51.172818,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QWH8N",
+    "longitude": 10.803684,
+    "latitude": 52.582759,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N871U",
+    "longitude": 10.25573,
+    "latitude": 48.901473,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L14PO",
+    "longitude": 12.952573,
+    "latitude": 48.217611,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-H1ZYE",
+    "longitude": 13.523427,
+    "latitude": 54.012862,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GDUSF",
+    "longitude": 12.610912,
+    "latitude": 47.691544,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-671JI",
+    "longitude": 8.295609,
+    "latitude": 47.750436,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PE40Y",
+    "longitude": 12.318366,
+    "latitude": 52.659285,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XE98Z",
+    "longitude": 9.020152,
+    "latitude": 51.165294,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BSQGV",
+    "longitude": 7.410809,
+    "latitude": 49.092772,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-43MB2",
+    "longitude": 10.689461,
+    "latitude": 52.91709,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-84NI8",
+    "longitude": 7.760055,
+    "latitude": 51.722648,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-88F59",
+    "longitude": 6.870272,
+    "latitude": 54.230714,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z63W5",
+    "longitude": 10.365814,
+    "latitude": 51.286127,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2Q32V",
+    "longitude": 11.041577,
+    "latitude": 51.158207,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IBR1W",
+    "longitude": 6.896177,
+    "latitude": 47.993429,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N1GZN",
+    "longitude": 9.421394,
+    "latitude": 49.782179,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4507V",
+    "longitude": 11.759057,
+    "latitude": 50.418887,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E7Y4V",
+    "longitude": 5.988855,
+    "latitude": 48.267686,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NHBSP",
+    "longitude": 13.332908,
+    "latitude": 52.96318,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-G6CTA",
+    "longitude": 9.24478,
+    "latitude": 49.103187,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YH9OR",
+    "longitude": 13.417007,
+    "latitude": 50.853229,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PVYEI",
+    "longitude": 9.172095,
+    "latitude": 49.368068,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NK8PM",
+    "longitude": 14.254195,
+    "latitude": 53.447951,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HPVTP",
+    "longitude": 8.705345,
+    "latitude": 54.736539,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4V1LD",
+    "longitude": 12.903731,
+    "latitude": 50.911392,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F7RGM",
+    "longitude": 13.276867,
+    "latitude": 47.500698,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SDKH4",
+    "longitude": 6.384057,
+    "latitude": 53.472386,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BY4Y5",
+    "longitude": 10.151151,
+    "latitude": 54.818913,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9EF6Z",
+    "longitude": 6.068515,
+    "latitude": 49.310142,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3TG9X",
+    "longitude": 14.637887,
+    "latitude": 52.973061,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2WOUE",
+    "longitude": 10.315172,
+    "latitude": 54.741404,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3A0RL",
+    "longitude": 12.111873,
+    "latitude": 53.884747,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HE866",
+    "longitude": 11.53062,
+    "latitude": 53.660717,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YHHZJ",
+    "longitude": 6.203216,
+    "latitude": 51.359776,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1Y9FX",
+    "longitude": 14.338076,
+    "latitude": 49.577536,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P3W8O",
+    "longitude": 14.294871,
+    "latitude": 49.591687,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SB6M4",
+    "longitude": 9.861381,
+    "latitude": 48.669079,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LL7X5",
+    "longitude": 9.059211,
+    "latitude": 54.639572,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JBGSO",
+    "longitude": 13.494728,
+    "latitude": 52.402599,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NS5G5",
+    "longitude": 12.478844,
+    "latitude": 53.643011,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0SOU3",
+    "longitude": 7.631501,
+    "latitude": 51.115515,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DA7DX",
+    "longitude": 11.388386,
+    "latitude": 53.373171,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-557Y0",
+    "longitude": 6.146628,
+    "latitude": 48.359356,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DANCA",
+    "longitude": 9.408991,
+    "latitude": 53.811017,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JOQ9X",
+    "longitude": 10.121999,
+    "latitude": 51.420219,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DU2T7",
+    "longitude": 7.996528,
+    "latitude": 53.925304,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SZUHZ",
+    "longitude": 12.149159,
+    "latitude": 48.095413,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UPQRH",
+    "longitude": 8.474317,
+    "latitude": 49.808349,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FLE7W",
+    "longitude": 14.796353,
+    "latitude": 50.331428,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-B92FZ",
+    "longitude": 13.714227,
+    "latitude": 48.372035,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-T92NN",
+    "longitude": 15.095963,
+    "latitude": 48.007969,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WQDMJ",
+    "longitude": 13.283519,
+    "latitude": 48.761212,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S2PPI",
+    "longitude": 8.223143,
+    "latitude": 50.083998,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TJ21O",
+    "longitude": 13.782366,
+    "latitude": 48.619535,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R74NU",
+    "longitude": 10.67902,
+    "latitude": 52.722204,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VIV3E",
+    "longitude": 14.563072,
+    "latitude": 53.385383,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q6OFS",
+    "longitude": 7.217814,
+    "latitude": 49.845288,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N2WE8",
+    "longitude": 7.404527,
+    "latitude": 48.774943,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FY84U",
+    "longitude": 12.013864,
+    "latitude": 53.776112,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IRGDO",
+    "longitude": 14.257036,
+    "latitude": 49.193741,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OGHYW",
+    "longitude": 5.885669,
+    "latitude": 53.166341,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IV0WK",
+    "longitude": 12.184212,
+    "latitude": 48.658253,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O4L15",
+    "longitude": 13.316619,
+    "latitude": 50.253496,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-82GEU",
+    "longitude": 9.744951,
+    "latitude": 49.161474,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JBX1N",
+    "longitude": 12.18395,
+    "latitude": 52.118409,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CUN8C",
+    "longitude": 13.495351,
+    "latitude": 51.833635,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P87WI",
+    "longitude": 9.619223,
+    "latitude": 51.546993,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UVAY3",
+    "longitude": 7.999191,
+    "latitude": 48.04102,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TN1MH",
+    "longitude": 11.915224,
+    "latitude": 50.497477,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2SS5Z",
+    "longitude": 12.409454,
+    "latitude": 51.315722,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IQMAX",
+    "longitude": 13.54555,
+    "latitude": 52.806928,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VE13I",
+    "longitude": 7.05507,
+    "latitude": 52.909379,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IGVYS",
+    "longitude": 13.469117,
+    "latitude": 49.197027,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y5EA7",
+    "longitude": 10.633138,
+    "latitude": 53.536174,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3JVI0",
+    "longitude": 14.399577,
+    "latitude": 52.082085,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SDLQX",
+    "longitude": 13.723194,
+    "latitude": 49.813918,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RWNUH",
+    "longitude": 11.62548,
+    "latitude": 52.40436,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9V58V",
+    "longitude": 9.744126,
+    "latitude": 48.832482,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4TMKE",
+    "longitude": 14.836272,
+    "latitude": 49.501224,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8FZM8",
+    "longitude": 9.335983,
+    "latitude": 51.831221,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-10RO6",
+    "longitude": 6.344931,
+    "latitude": 53.557528,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3CUHP",
+    "longitude": 9.288548,
+    "latitude": 47.877341,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NUVAS",
+    "longitude": 8.727556,
+    "latitude": 50.3683,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SK2CD",
+    "longitude": 11.326994,
+    "latitude": 50.944321,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C8IJK",
+    "longitude": 14.193819,
+    "latitude": 53.094513,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7SQUA",
+    "longitude": 6.027054,
+    "latitude": 49.790691,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-39RP4",
+    "longitude": 9.959619,
+    "latitude": 53.895183,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XQVGF",
+    "longitude": 6.13397,
+    "latitude": 47.636243,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OY832",
+    "longitude": 14.451927,
+    "latitude": 49.803019,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P10KS",
+    "longitude": 11.685889,
+    "latitude": 53.644539,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ORLVF",
+    "longitude": 9.510471,
+    "latitude": 48.597364,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NH89L",
+    "longitude": 7.098893,
+    "latitude": 53.514758,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-B1QDD",
+    "longitude": 8.062616,
+    "latitude": 52.746625,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-22GAQ",
+    "longitude": 10.390466,
+    "latitude": 52.656648,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0M9WQ",
+    "longitude": 7.03472,
+    "latitude": 49.46014,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6UQ53",
+    "longitude": 6.454727,
+    "latitude": 51.765313,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9E5JP",
+    "longitude": 9.286801,
+    "latitude": 48.545303,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VJ4UI",
+    "longitude": 14.856493,
+    "latitude": 53.676684,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8763U",
+    "longitude": 7.738887,
+    "latitude": 53.612567,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F4GHL",
+    "longitude": 10.948957,
+    "latitude": 49.942113,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3FDHV",
+    "longitude": 5.807695,
+    "latitude": 50.261449,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3RG1P",
+    "longitude": 7.736247,
+    "latitude": 51.046921,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M1E9H",
+    "longitude": 8.56048,
+    "latitude": 50.87949,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CJCUB",
+    "longitude": 13.518711,
+    "latitude": 49.45193,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3SF1V",
+    "longitude": 14.268055,
+    "latitude": 52.15473,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SUJRP",
+    "longitude": 6.465074,
+    "latitude": 47.483475,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QQSEG",
+    "longitude": 12.149448,
+    "latitude": 48.756687,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UC6JG",
+    "longitude": 13.551545,
+    "latitude": 51.204728,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4O7AJ",
+    "longitude": 13.03743,
+    "latitude": 48.363787,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M73T0",
+    "longitude": 12.89372,
+    "latitude": 49.796353,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6LT1Q",
+    "longitude": 12.913195,
+    "latitude": 48.889498,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I0CRA",
+    "longitude": 5.826001,
+    "latitude": 52.785034,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TXNS4",
+    "longitude": 10.438282,
+    "latitude": 52.473088,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K42XE",
+    "longitude": 10.443764,
+    "latitude": 52.863671,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JPCSU",
+    "longitude": 6.596045,
+    "latitude": 50.49677,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MAS8B",
+    "longitude": 14.389092,
+    "latitude": 50.027783,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C7N5G",
+    "longitude": 10.757007,
+    "latitude": 54.590253,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U5BMO",
+    "longitude": 9.338786,
+    "latitude": 48.715853,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IVYQC",
+    "longitude": 11.161009,
+    "latitude": 47.954383,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9HZJW",
+    "longitude": 13.176621,
+    "latitude": 53.72637,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WT5QV",
+    "longitude": 11.564666,
+    "latitude": 50.07912,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5T4FL",
+    "longitude": 10.946967,
+    "latitude": 48.235204,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-25V2X",
+    "longitude": 14.15657,
+    "latitude": 53.649313,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X0N31",
+    "longitude": 9.982292,
+    "latitude": 53.82402,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SCO9S",
+    "longitude": 6.756195,
+    "latitude": 50.503659,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZJHJ7",
+    "longitude": 11.895289,
+    "latitude": 53.46819,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-63MTC",
+    "longitude": 6.904742,
+    "latitude": 51.998903,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZMMQD",
+    "longitude": 12.463448,
+    "latitude": 50.871911,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZZL07",
+    "longitude": 6.879462,
+    "latitude": 51.804685,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TCFPJ",
+    "longitude": 9.394207,
+    "latitude": 51.877429,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2726I",
+    "longitude": 14.824878,
+    "latitude": 52.343169,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DHY61",
+    "longitude": 7.994311,
+    "latitude": 50.194988,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J3IMI",
+    "longitude": 11.194988,
+    "latitude": 49.997849,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3EPCS",
+    "longitude": 8.299713,
+    "latitude": 49.937149,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IXBJZ",
+    "longitude": 8.283181,
+    "latitude": 51.931489,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AOBOT",
+    "longitude": 8.753201,
+    "latitude": 49.777344,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-B0A6M",
+    "longitude": 14.666731,
+    "latitude": 48.361637,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JDBR4",
+    "longitude": 9.988847,
+    "latitude": 48.771297,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4U07B",
+    "longitude": 14.604289,
+    "latitude": 47.46478,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NCTDV",
+    "longitude": 13.184088,
+    "latitude": 51.8194,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NLCRC",
+    "longitude": 11.472833,
+    "latitude": 47.525993,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FSLEF",
+    "longitude": 9.10984,
+    "latitude": 49.26362,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-23P2Y",
+    "longitude": 6.477733,
+    "latitude": 48.110532,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1RQFE",
+    "longitude": 6.219291,
+    "latitude": 52.684514,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KAX2N",
+    "longitude": 7.247597,
+    "latitude": 50.837148,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0YW0A",
+    "longitude": 10.786398,
+    "latitude": 48.970237,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z9YCU",
+    "longitude": 10.992143,
+    "latitude": 51.254922,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VXJM8",
+    "longitude": 7.095363,
+    "latitude": 49.603726,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7DAQR",
+    "longitude": 7.876616,
+    "latitude": 51.243194,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-11JO5",
+    "longitude": 7.437656,
+    "latitude": 51.606501,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WYJ88",
+    "longitude": 11.760416,
+    "latitude": 49.816738,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UCBVL",
+    "longitude": 8.947109,
+    "latitude": 54.466608,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5M6I6",
+    "longitude": 7.356861,
+    "latitude": 50.204828,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M52RN",
+    "longitude": 9.058542,
+    "latitude": 49.18483,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NS8XQ",
+    "longitude": 13.179839,
+    "latitude": 50.275267,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BTCLS",
+    "longitude": 15.024581,
+    "latitude": 47.433332,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ERJ7P",
+    "longitude": 7.712112,
+    "latitude": 48.862846,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KLOC7",
+    "longitude": 9.45079,
+    "latitude": 52.1592,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D79I6",
+    "longitude": 10.49163,
+    "latitude": 48.575574,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AG6MK",
+    "longitude": 7.548331,
+    "latitude": 51.202101,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-673YV",
+    "longitude": 12.962549,
+    "latitude": 49.801816,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VNV7S",
+    "longitude": 10.162309,
+    "latitude": 51.540365,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PT1LC",
+    "longitude": 6.642399,
+    "latitude": 53.655186,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M2DFD",
+    "longitude": 7.283052,
+    "latitude": 50.40805,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BUY6G",
+    "longitude": 7.447921,
+    "latitude": 54.753551,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MDT1V",
+    "longitude": 10.425876,
+    "latitude": 52.524065,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6TN3Q",
+    "longitude": 14.340674,
+    "latitude": 52.03965,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-86CJM",
+    "longitude": 13.894445,
+    "latitude": 47.392002,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-T6ICJ",
+    "longitude": 9.559607,
+    "latitude": 47.570515,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WC2SZ",
+    "longitude": 6.232982,
+    "latitude": 48.462866,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UWFOO",
+    "longitude": 13.908176,
+    "latitude": 54.218124,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FHUPU",
+    "longitude": 8.015747,
+    "latitude": 52.854155,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-24379",
+    "longitude": 13.754166,
+    "latitude": 48.061602,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EMQU7",
+    "longitude": 7.185493,
+    "latitude": 48.130531,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X2493",
+    "longitude": 14.772169,
+    "latitude": 52.363352,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3SAZY",
+    "longitude": 10.702592,
+    "latitude": 50.036987,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9J490",
+    "longitude": 7.239143,
+    "latitude": 49.785239,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y012O",
+    "longitude": 14.155194,
+    "latitude": 54.671552,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ODOXF",
+    "longitude": 9.389412,
+    "latitude": 51.398036,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M0HL1",
+    "longitude": 6.026806,
+    "latitude": 52.858071,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UR9AD",
+    "longitude": 12.938491,
+    "latitude": 50.174431,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9JCYW",
+    "longitude": 11.072406,
+    "latitude": 52.032258,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WKLMJ",
+    "longitude": 14.067947,
+    "latitude": 51.499786,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z933L",
+    "longitude": 12.632154,
+    "latitude": 53.149565,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HHYBX",
+    "longitude": 6.140345,
+    "latitude": 47.594326,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BEYAL",
+    "longitude": 10.122348,
+    "latitude": 54.804207,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0MIA5",
+    "longitude": 5.817415,
+    "latitude": 54.890912,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PJ5FX",
+    "longitude": 12.636069,
+    "latitude": 49.018839,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9BIZ9",
+    "longitude": 12.718015,
+    "latitude": 52.487264,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A7ETB",
+    "longitude": 7.589491,
+    "latitude": 54.878572,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GQ6NP",
+    "longitude": 10.68406,
+    "latitude": 48.101689,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M2QIW",
+    "longitude": 13.794235,
+    "latitude": 48.026252,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MZZG8",
+    "longitude": 7.312514,
+    "latitude": 50.758045,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SHZMJ",
+    "longitude": 6.888339,
+    "latitude": 54.726669,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QOXVD",
+    "longitude": 12.26027,
+    "latitude": 52.751793,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BJ3D7",
+    "longitude": 14.158587,
+    "latitude": 51.997194,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4RB2V",
+    "longitude": 14.839988,
+    "latitude": 51.457164,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VL7UL",
+    "longitude": 7.523768,
+    "latitude": 48.985097,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1X5LW",
+    "longitude": 6.657302,
+    "latitude": 52.950121,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KPSKY",
+    "longitude": 13.650181,
+    "latitude": 48.818824,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YU7QD",
+    "longitude": 13.113805,
+    "latitude": 50.307974,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M22S1",
+    "longitude": 9.67497,
+    "latitude": 52.107339,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TWHQR",
+    "longitude": 11.678135,
+    "latitude": 54.280182,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OXJDT",
+    "longitude": 9.723511,
+    "latitude": 50.648071,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4XXT2",
+    "longitude": 11.15183,
+    "latitude": 52.904944,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PQV76",
+    "longitude": 8.219544,
+    "latitude": 54.789978,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YDZVV",
+    "longitude": 11.0224,
+    "latitude": 48.322984,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QJWJ1",
+    "longitude": 10.733448,
+    "latitude": 49.668147,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-641C2",
+    "longitude": 7.096151,
+    "latitude": 48.285657,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8I92S",
+    "longitude": 14.812243,
+    "latitude": 51.1264,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AEF99",
+    "longitude": 11.611918,
+    "latitude": 49.648141,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NCN2T",
+    "longitude": 7.450404,
+    "latitude": 48.950246,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R878C",
+    "longitude": 13.602423,
+    "latitude": 48.352222,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A66UO",
+    "longitude": 8.72594,
+    "latitude": 51.571261,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3GY9G",
+    "longitude": 6.927346,
+    "latitude": 52.267775,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YP42J",
+    "longitude": 9.531601,
+    "latitude": 49.024877,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E7BWS",
+    "longitude": 14.969345,
+    "latitude": 52.855614,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-566HB",
+    "longitude": 14.6644,
+    "latitude": 48.765591,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R7QJC",
+    "longitude": 13.403775,
+    "latitude": 53.184434,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WXJXC",
+    "longitude": 13.2705,
+    "latitude": 54.065744,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YT1EE",
+    "longitude": 10.421731,
+    "latitude": 49.698393,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CRZT0",
+    "longitude": 6.713308,
+    "latitude": 51.312426,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3NXU5",
+    "longitude": 10.599457,
+    "latitude": 54.423771,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KA5Z3",
+    "longitude": 11.03043,
+    "latitude": 53.42891,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LN6MJ",
+    "longitude": 8.933104,
+    "latitude": 48.834848,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GR31L",
+    "longitude": 8.570044,
+    "latitude": 47.364047,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BVJVF",
+    "longitude": 6.196327,
+    "latitude": 51.979169,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RC8YT",
+    "longitude": 14.763653,
+    "latitude": 49.312009,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GVQP2",
+    "longitude": 14.944475,
+    "latitude": 54.348163,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6U95S",
+    "longitude": 14.549515,
+    "latitude": 51.796993,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-THL80",
+    "longitude": 10.224616,
+    "latitude": 47.559185,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-H4M77",
+    "longitude": 10.261728,
+    "latitude": 49.326505,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PG7F2",
+    "longitude": 13.617479,
+    "latitude": 47.816335,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GRJ7F",
+    "longitude": 7.56461,
+    "latitude": 47.94527,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OV0H4",
+    "longitude": 11.124759,
+    "latitude": 50.973505,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OJOPL",
+    "longitude": 10.449506,
+    "latitude": 51.165795,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IOEHQ",
+    "longitude": 8.640024,
+    "latitude": 53.232291,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7QUVZ",
+    "longitude": 11.579368,
+    "latitude": 51.605988,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7YN0X",
+    "longitude": 14.592355,
+    "latitude": 53.333481,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KSBQS",
+    "longitude": 13.31626,
+    "latitude": 51.341097,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VFYBD",
+    "longitude": 10.399583,
+    "latitude": 48.212538,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VIWLG",
+    "longitude": 13.691787,
+    "latitude": 53.895111,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y84RG",
+    "longitude": 11.96276,
+    "latitude": 51.229149,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GERKL",
+    "longitude": 7.0463,
+    "latitude": 50.756253,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CF0SE",
+    "longitude": 12.115079,
+    "latitude": 50.315135,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IA0Q4",
+    "longitude": 11.121192,
+    "latitude": 51.389605,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QIVYA",
+    "longitude": 8.664958,
+    "latitude": 52.412184,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YWDEP",
+    "longitude": 8.449459,
+    "latitude": 48.964485,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ICYSU",
+    "longitude": 12.685284,
+    "latitude": 53.06944,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OQFYJ",
+    "longitude": 12.729433,
+    "latitude": 50.303955,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BLQX1",
+    "longitude": 9.512777,
+    "latitude": 48.25802,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IK0RJ",
+    "longitude": 12.488745,
+    "latitude": 50.85326,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QFYVK",
+    "longitude": 14.048009,
+    "latitude": 54.083598,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S45AO",
+    "longitude": 7.535488,
+    "latitude": 47.337437,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JC9XV",
+    "longitude": 9.044053,
+    "latitude": 53.979731,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M4Y5M",
+    "longitude": 9.225412,
+    "latitude": 47.751393,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F49BU",
+    "longitude": 11.943788,
+    "latitude": 51.651246,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CCA9G",
+    "longitude": 13.213724,
+    "latitude": 53.300261,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M388I",
+    "longitude": 9.707943,
+    "latitude": 47.918973,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NKYAR",
+    "longitude": 11.502557,
+    "latitude": 50.921465,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-H10D7",
+    "longitude": 11.828,
+    "latitude": 50.298839,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7VKK5",
+    "longitude": 6.841361,
+    "latitude": 48.160905,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y6M5M",
+    "longitude": 10.537134,
+    "latitude": 49.999107,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XTV70",
+    "longitude": 13.394234,
+    "latitude": 48.459314,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4ZKR2",
+    "longitude": 7.563805,
+    "latitude": 51.515351,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MVUQA",
+    "longitude": 8.261147,
+    "latitude": 54.283074,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QJEZJ",
+    "longitude": 13.102401,
+    "latitude": 54.058271,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YG81P",
+    "longitude": 13.168397,
+    "latitude": 50.87782,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TYPTI",
+    "longitude": 7.405486,
+    "latitude": 54.190586,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BY40X",
+    "longitude": 8.733698,
+    "latitude": 51.20308,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AOOIU",
+    "longitude": 11.59859,
+    "latitude": 51.874204,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0CITJ",
+    "longitude": 11.034368,
+    "latitude": 49.257363,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y519A",
+    "longitude": 8.491886,
+    "latitude": 48.036765,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XMGVV",
+    "longitude": 9.499227,
+    "latitude": 53.144455,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XQ5ZL",
+    "longitude": 15.0077,
+    "latitude": 54.530984,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UMC5A",
+    "longitude": 12.816402,
+    "latitude": 54.393805,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IHNZ4",
+    "longitude": 8.133037,
+    "latitude": 49.937972,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MYSIA",
+    "longitude": 12.536346,
+    "latitude": 52.287294,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-95HRL",
+    "longitude": 8.108284,
+    "latitude": 47.340516,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O1AHA",
+    "longitude": 7.62938,
+    "latitude": 51.931784,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D3O27",
+    "longitude": 7.563432,
+    "latitude": 49.461255,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-24CAA",
+    "longitude": 14.070812,
+    "latitude": 47.540021,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5M5XK",
+    "longitude": 6.025643,
+    "latitude": 48.057802,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5ZSDA",
+    "longitude": 7.787434,
+    "latitude": 49.34753,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-32OY9",
+    "longitude": 9.288745,
+    "latitude": 52.635404,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J6L6M",
+    "longitude": 9.528538,
+    "latitude": 54.834514,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q8C2H",
+    "longitude": 7.210095,
+    "latitude": 50.045911,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6Z9QG",
+    "longitude": 14.230425,
+    "latitude": 52.703068,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CDURY",
+    "longitude": 10.648945,
+    "latitude": 53.28776,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9HQD2",
+    "longitude": 5.813056,
+    "latitude": 48.536808,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HVNM6",
+    "longitude": 14.159412,
+    "latitude": 48.418914,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XUDO8",
+    "longitude": 5.88638,
+    "latitude": 54.538775,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PFPLV",
+    "longitude": 9.947416,
+    "latitude": 51.836634,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CPEDI",
+    "longitude": 12.19957,
+    "latitude": 54.8947,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LNUUN",
+    "longitude": 11.947796,
+    "latitude": 49.586876,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IATKI",
+    "longitude": 15.004586,
+    "latitude": 48.146514,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NCYKY",
+    "longitude": 6.963917,
+    "latitude": 47.335308,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P5Q75",
+    "longitude": 5.80413,
+    "latitude": 50.373201,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-60PU8",
+    "longitude": 11.36776,
+    "latitude": 47.359387,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EQI1A",
+    "longitude": 10.316817,
+    "latitude": 53.88614,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FH3JM",
+    "longitude": 12.041576,
+    "latitude": 47.596868,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P5BHC",
+    "longitude": 10.146803,
+    "latitude": 50.882161,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4TIU9",
+    "longitude": 5.813347,
+    "latitude": 53.702491,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1JHR2",
+    "longitude": 6.501227,
+    "latitude": 54.372067,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7GAPJ",
+    "longitude": 11.126483,
+    "latitude": 53.278037,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BUR30",
+    "longitude": 12.005132,
+    "latitude": 47.624084,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CKPKR",
+    "longitude": 9.431249,
+    "latitude": 52.363492,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q4SUP",
+    "longitude": 9.606899,
+    "latitude": 53.04798,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4N6R1",
+    "longitude": 11.154416,
+    "latitude": 50.018495,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L0ERJ",
+    "longitude": 9.177539,
+    "latitude": 51.493568,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ASUJI",
+    "longitude": 6.467189,
+    "latitude": 51.732158,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-98SAQ",
+    "longitude": 9.910872,
+    "latitude": 53.408032,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GXN1E",
+    "longitude": 14.247795,
+    "latitude": 54.441415,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-87R8B",
+    "longitude": 6.241956,
+    "latitude": 51.196797,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VKJGB",
+    "longitude": 6.829475,
+    "latitude": 52.5897,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JTBEG",
+    "longitude": 7.818068,
+    "latitude": 48.612755,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KMJYT",
+    "longitude": 14.391158,
+    "latitude": 52.82551,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SWLYP",
+    "longitude": 14.018729,
+    "latitude": 52.73073,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D8LIQ",
+    "longitude": 6.858061,
+    "latitude": 53.571756,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1IYZW",
+    "longitude": 15.030282,
+    "latitude": 51.354746,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WQHWH",
+    "longitude": 8.725295,
+    "latitude": 49.346857,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YC0X8",
+    "longitude": 12.468777,
+    "latitude": 52.120658,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZNYWD",
+    "longitude": 14.095325,
+    "latitude": 49.010292,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XUL7B",
+    "longitude": 7.549179,
+    "latitude": 52.899084,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JDHOW",
+    "longitude": 12.267072,
+    "latitude": 54.71965,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S1706",
+    "longitude": 14.415969,
+    "latitude": 51.336295,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1UZG5",
+    "longitude": 10.533127,
+    "latitude": 52.536549,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ICS30",
+    "longitude": 12.840189,
+    "latitude": 48.501815,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AYS7I",
+    "longitude": 10.750555,
+    "latitude": 48.899248,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KBJ95",
+    "longitude": 6.871688,
+    "latitude": 54.030812,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CFC5W",
+    "longitude": 8.433602,
+    "latitude": 48.384605,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FHB3P",
+    "longitude": 11.764742,
+    "latitude": 48.556199,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0HDFK",
+    "longitude": 11.900969,
+    "latitude": 47.988529,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NEAKL",
+    "longitude": 12.093208,
+    "latitude": 50.438796,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WRRWN",
+    "longitude": 5.917231,
+    "latitude": 49.526577,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-38SQW",
+    "longitude": 10.077395,
+    "latitude": 47.831695,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KOH2Z",
+    "longitude": 8.719726,
+    "latitude": 48.008264,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-G3ANP",
+    "longitude": 11.189974,
+    "latitude": 48.121034,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TE6V7",
+    "longitude": 12.87733,
+    "latitude": 50.144122,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KSTK3",
+    "longitude": 14.476275,
+    "latitude": 52.198452,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E62ID",
+    "longitude": 9.680011,
+    "latitude": 49.420853,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PC55J",
+    "longitude": 11.430403,
+    "latitude": 50.00668,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-184T0",
+    "longitude": 6.638369,
+    "latitude": 47.646548,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D4FKP",
+    "longitude": 13.356015,
+    "latitude": 50.474111,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CKINX",
+    "longitude": 10.705534,
+    "latitude": 53.852,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MC5X8",
+    "longitude": 9.218161,
+    "latitude": 48.600507,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JP6EB",
+    "longitude": 6.387141,
+    "latitude": 48.001108,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PVTUN",
+    "longitude": 13.696158,
+    "latitude": 52.581612,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-63DV6",
+    "longitude": 10.300844,
+    "latitude": 53.400456,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NZ2FP",
+    "longitude": 10.083586,
+    "latitude": 53.311491,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F4Y6R",
+    "longitude": 7.055493,
+    "latitude": 49.400523,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RVMDO",
+    "longitude": 7.505237,
+    "latitude": 54.655592,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CEMF3",
+    "longitude": 14.810915,
+    "latitude": 53.900919,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F9SNU",
+    "longitude": 12.405459,
+    "latitude": 47.824716,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OA6L6",
+    "longitude": 6.755286,
+    "latitude": 53.188985,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5THQV",
+    "longitude": 9.774631,
+    "latitude": 54.251712,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UMKBG",
+    "longitude": 13.560021,
+    "latitude": 52.724607,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z98UA",
+    "longitude": 7.405163,
+    "latitude": 50.515478,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JSI9P",
+    "longitude": 13.984371,
+    "latitude": 50.000224,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UKMSL",
+    "longitude": 13.554344,
+    "latitude": 54.508612,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QWBC8",
+    "longitude": 11.433243,
+    "latitude": 52.502859,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P8BKP",
+    "longitude": 14.90327,
+    "latitude": 52.319565,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C10BV",
+    "longitude": 6.992425,
+    "latitude": 47.901802,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LWQTH",
+    "longitude": 6.677537,
+    "latitude": 53.648738,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3A8HW",
+    "longitude": 7.537145,
+    "latitude": 54.195364,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZW323",
+    "longitude": 14.839208,
+    "latitude": 49.541001,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ROFJI",
+    "longitude": 11.422529,
+    "latitude": 47.642055,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U5WJH",
+    "longitude": 6.584788,
+    "latitude": 49.292642,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O8X1U",
+    "longitude": 12.575357,
+    "latitude": 49.977129,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NRR4T",
+    "longitude": 9.503422,
+    "latitude": 53.617704,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N8NT6",
+    "longitude": 6.582737,
+    "latitude": 48.213081,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YBYKP",
+    "longitude": 8.979863,
+    "latitude": 53.818922,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZL3XJ",
+    "longitude": 11.306843,
+    "latitude": 52.915766,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-87UZZ",
+    "longitude": 8.19827,
+    "latitude": 54.367731,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M8OGP",
+    "longitude": 8.358191,
+    "latitude": 48.400087,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CPGJE",
+    "longitude": 10.338962,
+    "latitude": 54.835375,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KZJCJ",
+    "longitude": 12.329104,
+    "latitude": 53.77662,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZFK3L",
+    "longitude": 14.937319,
+    "latitude": 50.167207,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MTJP2",
+    "longitude": 13.250743,
+    "latitude": 50.197596,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3IH26",
+    "longitude": 11.483685,
+    "latitude": 49.058848,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CJ1SH",
+    "longitude": 14.849664,
+    "latitude": 52.812422,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WQW90",
+    "longitude": 9.431883,
+    "latitude": 49.096016,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-96S5A",
+    "longitude": 10.040461,
+    "latitude": 47.941631,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FG0EY",
+    "longitude": 14.114958,
+    "latitude": 51.502703,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VAJHJ",
+    "longitude": 7.525209,
+    "latitude": 51.079012,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M01CP",
+    "longitude": 10.343115,
+    "latitude": 53.938283,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AFBB2",
+    "longitude": 14.495794,
+    "latitude": 47.941941,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BM8HV",
+    "longitude": 14.828917,
+    "latitude": 50.334687,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-V7HRI",
+    "longitude": 8.333041,
+    "latitude": 51.359641,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-02AEA",
+    "longitude": 9.314204,
+    "latitude": 52.97238,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-94Y6P",
+    "longitude": 12.885377,
+    "latitude": 50.171462,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FZJW4",
+    "longitude": 6.883521,
+    "latitude": 49.521938,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z56HC",
+    "longitude": 7.729562,
+    "latitude": 48.409246,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4ONH1",
+    "longitude": 12.480491,
+    "latitude": 53.297885,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TA04D",
+    "longitude": 9.353044,
+    "latitude": 49.624973,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SRISS",
+    "longitude": 13.443073,
+    "latitude": 48.263776,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZIWZQ",
+    "longitude": 14.957739,
+    "latitude": 52.146835,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OHKU2",
+    "longitude": 8.708237,
+    "latitude": 48.740751,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GPHVO",
+    "longitude": 13.213419,
+    "latitude": 52.957427,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PSU06",
+    "longitude": 9.418319,
+    "latitude": 49.503594,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EXGTG",
+    "longitude": 10.733727,
+    "latitude": 51.376936,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-05QC3",
+    "longitude": 10.056474,
+    "latitude": 49.004488,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-01CPK",
+    "longitude": 10.027534,
+    "latitude": 48.570784,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LEI84",
+    "longitude": 7.201062,
+    "latitude": 50.890479,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-44S7U",
+    "longitude": 10.477287,
+    "latitude": 51.10534,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M9HSQ",
+    "longitude": 9.683675,
+    "latitude": 50.333811,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4C2V1",
+    "longitude": 10.612955,
+    "latitude": 50.201952,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZUS8X",
+    "longitude": 8.736945,
+    "latitude": 51.856175,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MSDW9",
+    "longitude": 13.343613,
+    "latitude": 53.551055,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KJBJN",
+    "longitude": 6.855879,
+    "latitude": 52.67495,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-H4M04",
+    "longitude": 10.227959,
+    "latitude": 47.88267,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KTKP1",
+    "longitude": 11.412618,
+    "latitude": 47.92757,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TTOA7",
+    "longitude": 10.945869,
+    "latitude": 49.58669,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E4W47",
+    "longitude": 9.220515,
+    "latitude": 48.86989,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J4YRM",
+    "longitude": 6.092219,
+    "latitude": 54.338311,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U74CC",
+    "longitude": 12.069843,
+    "latitude": 51.07385,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J7ADP",
+    "longitude": 8.557517,
+    "latitude": 51.407194,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N8OO0",
+    "longitude": 13.368724,
+    "latitude": 49.603343,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GVSQR",
+    "longitude": 9.237236,
+    "latitude": 53.046595,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9HIDY",
+    "longitude": 14.388471,
+    "latitude": 50.466499,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CFF8O",
+    "longitude": 12.59689,
+    "latitude": 49.4111,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HX9SF",
+    "longitude": 9.163847,
+    "latitude": 50.129861,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C6XWH",
+    "longitude": 13.551384,
+    "latitude": 47.91167,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WRK29",
+    "longitude": 9.496565,
+    "latitude": 51.524456,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AYKT6",
+    "longitude": 11.495965,
+    "latitude": 49.166282,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A918S",
+    "longitude": 8.629944,
+    "latitude": 47.840772,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HE7GV",
+    "longitude": 5.820907,
+    "latitude": 51.282137,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EFBQ6",
+    "longitude": 11.421941,
+    "latitude": 53.133826,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5JP0V",
+    "longitude": 11.506351,
+    "latitude": 54.430373,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P1Y27",
+    "longitude": 8.194237,
+    "latitude": 54.045171,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DBSAE",
+    "longitude": 8.596604,
+    "latitude": 52.344609,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HL58V",
+    "longitude": 14.573516,
+    "latitude": 54.218636,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D6DI4",
+    "longitude": 14.812449,
+    "latitude": 53.522169,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q0S9M",
+    "longitude": 8.984486,
+    "latitude": 47.301791,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BGQAX",
+    "longitude": 7.028174,
+    "latitude": 54.779976,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PJ5VR",
+    "longitude": 12.26971,
+    "latitude": 49.156263,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LDGLA",
+    "longitude": 12.769864,
+    "latitude": 54.830404,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LEEP2",
+    "longitude": 9.390394,
+    "latitude": 54.018337,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OXR43",
+    "longitude": 6.863508,
+    "latitude": 50.868183,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FYML8",
+    "longitude": 13.091488,
+    "latitude": 54.650889,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4G9T4",
+    "longitude": 6.911816,
+    "latitude": 52.303801,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0739Q",
+    "longitude": 7.132635,
+    "latitude": 54.783037,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-G2PSE",
+    "longitude": 11.98199,
+    "latitude": 48.394456,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2BUU2",
+    "longitude": 7.123516,
+    "latitude": 50.14507,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-465QQ",
+    "longitude": 10.97077,
+    "latitude": 54.517206,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XCF6H",
+    "longitude": 9.15111,
+    "latitude": 52.504869,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D6C6V",
+    "longitude": 14.093905,
+    "latitude": 53.835558,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U4G90",
+    "longitude": 9.27183,
+    "latitude": 53.425248,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q9DGW",
+    "longitude": 6.856921,
+    "latitude": 50.00615,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3U5Z6",
+    "longitude": 6.213239,
+    "latitude": 50.232215,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-32VFN",
+    "longitude": 9.114907,
+    "latitude": 47.511405,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SNLJ3",
+    "longitude": 8.955241,
+    "latitude": 49.498872,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JCRRD",
+    "longitude": 12.197717,
+    "latitude": 48.47465,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HGAC8",
+    "longitude": 10.422792,
+    "latitude": 47.668221,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-T4N9G",
+    "longitude": 7.595288,
+    "latitude": 52.600707,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1CUE6",
+    "longitude": 10.561964,
+    "latitude": 49.663616,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F2UYU",
+    "longitude": 7.220355,
+    "latitude": 49.642748,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-61HGQ",
+    "longitude": 8.764172,
+    "latitude": 51.247032,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9PYAC",
+    "longitude": 12.030497,
+    "latitude": 48.665621,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YY2JJ",
+    "longitude": 6.753526,
+    "latitude": 51.06616,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N2L83",
+    "longitude": 7.386843,
+    "latitude": 52.049545,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SHOTU",
+    "longitude": 13.029286,
+    "latitude": 52.736356,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QA1LS",
+    "longitude": 8.700592,
+    "latitude": 50.213382,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3Q6JL",
+    "longitude": 14.246701,
+    "latitude": 47.744511,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-79JRI",
+    "longitude": 8.869655,
+    "latitude": 51.056012,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9XJ1P",
+    "longitude": 6.975154,
+    "latitude": 53.738768,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WWR4V",
+    "longitude": 10.444841,
+    "latitude": 53.745782,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OAYXC",
+    "longitude": 10.362783,
+    "latitude": 54.473216,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RJ08R",
+    "longitude": 10.835982,
+    "latitude": 54.735031,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9KL81",
+    "longitude": 13.833747,
+    "latitude": 51.34327,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PR9UY",
+    "longitude": 11.77226,
+    "latitude": 54.099612,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OT2D1",
+    "longitude": 7.186516,
+    "latitude": 52.949979,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0I02G",
+    "longitude": 12.647242,
+    "latitude": 54.533871,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SU76W",
+    "longitude": 13.251824,
+    "latitude": 49.784134,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2RBOH",
+    "longitude": 10.373642,
+    "latitude": 50.654294,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OJDQQ",
+    "longitude": 14.249819,
+    "latitude": 50.700774,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JGUL8",
+    "longitude": 11.226312,
+    "latitude": 52.584758,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HS14R",
+    "longitude": 9.950741,
+    "latitude": 47.819593,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N1AEI",
+    "longitude": 10.167362,
+    "latitude": 54.187186,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2WNEP",
+    "longitude": 13.844023,
+    "latitude": 53.803859,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EEH3Y",
+    "longitude": 5.86631,
+    "latitude": 48.800669,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K37FK",
+    "longitude": 11.116195,
+    "latitude": 50.14778,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4B3M5",
+    "longitude": 9.556204,
+    "latitude": 53.915115,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6QQDA",
+    "longitude": 11.704531,
+    "latitude": 50.13036,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-34ERF",
+    "longitude": 6.022952,
+    "latitude": 52.621291,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-40HP8",
+    "longitude": 9.009431,
+    "latitude": 54.295093,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-71MHJ",
+    "longitude": 13.947585,
+    "latitude": 51.438445,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4FYNN",
+    "longitude": 10.234409,
+    "latitude": 49.996809,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VPV6U",
+    "longitude": 6.760326,
+    "latitude": 47.454862,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6E94T",
+    "longitude": 7.213149,
+    "latitude": 49.641765,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-URVFH",
+    "longitude": 15.045618,
+    "latitude": 53.594608,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NMRXY",
+    "longitude": 13.623594,
+    "latitude": 47.577753,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KVQKD",
+    "longitude": 5.996323,
+    "latitude": 50.272622,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VIG3M",
+    "longitude": 14.871292,
+    "latitude": 50.893052,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BMZHL",
+    "longitude": 12.798496,
+    "latitude": 47.860387,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QEGMB",
+    "longitude": 9.714377,
+    "latitude": 54.325354,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9WIM3",
+    "longitude": 14.339819,
+    "latitude": 51.974184,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-60P9A",
+    "longitude": 8.4224,
+    "latitude": 51.051151,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D7ZRZ",
+    "longitude": 7.930395,
+    "latitude": 51.8407,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PA3M5",
+    "longitude": 9.74027,
+    "latitude": 50.494139,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QMIG6",
+    "longitude": 10.506534,
+    "latitude": 51.653892,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3ZZ23",
+    "longitude": 8.8859,
+    "latitude": 53.879118,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P2QS6",
+    "longitude": 13.103126,
+    "latitude": 51.113521,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JB1HO",
+    "longitude": 7.069926,
+    "latitude": 52.618346,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J0DJ0",
+    "longitude": 14.021395,
+    "latitude": 53.284131,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2LCAD",
+    "longitude": 7.28368,
+    "latitude": 52.748646,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PGU14",
+    "longitude": 7.461885,
+    "latitude": 50.25174,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-42TMH",
+    "longitude": 7.741366,
+    "latitude": 51.637352,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IGCGS",
+    "longitude": 6.527009,
+    "latitude": 48.268348,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VDM3H",
+    "longitude": 11.693062,
+    "latitude": 53.923889,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TN3EL",
+    "longitude": 13.195027,
+    "latitude": 54.084307,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X2LPN",
+    "longitude": 8.433439,
+    "latitude": 53.820422,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8U8TQ",
+    "longitude": 9.408616,
+    "latitude": 47.435767,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EDVNM",
+    "longitude": 6.657382,
+    "latitude": 47.694087,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2MQ5H",
+    "longitude": 11.703242,
+    "latitude": 47.672006,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HQSAA",
+    "longitude": 14.730448,
+    "latitude": 51.932952,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A9MPM",
+    "longitude": 8.654655,
+    "latitude": 48.414456,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-22PNO",
+    "longitude": 13.929632,
+    "latitude": 48.189577,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CNLXV",
+    "longitude": 14.430286,
+    "latitude": 47.801474,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NBL2B",
+    "longitude": 14.779331,
+    "latitude": 49.199351,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CEMWA",
+    "longitude": 11.525664,
+    "latitude": 51.170787,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I4IYU",
+    "longitude": 6.772335,
+    "latitude": 50.47608,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BOHUW",
+    "longitude": 5.812258,
+    "latitude": 53.459718,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4BI4W",
+    "longitude": 7.328473,
+    "latitude": 53.420098,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WTTHJ",
+    "longitude": 13.326418,
+    "latitude": 48.526868,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F4C9Q",
+    "longitude": 11.38227,
+    "latitude": 54.201078,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KT4MP",
+    "longitude": 12.408687,
+    "latitude": 49.937744,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P14N9",
+    "longitude": 12.837924,
+    "latitude": 48.058773,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-66OI0",
+    "longitude": 13.338433,
+    "latitude": 53.417562,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q84SL",
+    "longitude": 8.830316,
+    "latitude": 48.218929,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5L2LT",
+    "longitude": 10.761237,
+    "latitude": 47.978981,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LLJGE",
+    "longitude": 10.973884,
+    "latitude": 47.491179,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U5OZS",
+    "longitude": 7.80017,
+    "latitude": 47.894399,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KOMF1",
+    "longitude": 12.43517,
+    "latitude": 50.914147,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7QTRY",
+    "longitude": 5.910193,
+    "latitude": 50.286506,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LIGSU",
+    "longitude": 8.774828,
+    "latitude": 54.265004,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AHZ6E",
+    "longitude": 12.757668,
+    "latitude": 54.695834,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CAFZH",
+    "longitude": 11.524818,
+    "latitude": 50.198734,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D5BJC",
+    "longitude": 6.253022,
+    "latitude": 48.144888,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-T93QN",
+    "longitude": 14.598722,
+    "latitude": 53.320901,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-31WQK",
+    "longitude": 11.614448,
+    "latitude": 49.232977,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BEXI2",
+    "longitude": 10.706464,
+    "latitude": 49.002991,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3I4LI",
+    "longitude": 11.272679,
+    "latitude": 52.473342,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DLDKZ",
+    "longitude": 12.377104,
+    "latitude": 53.267757,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2RMI1",
+    "longitude": 12.902733,
+    "latitude": 50.902387,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R6JXN",
+    "longitude": 10.733905,
+    "latitude": 52.712603,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-44FK4",
+    "longitude": 13.397075,
+    "latitude": 53.488165,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0VRHE",
+    "longitude": 11.135298,
+    "latitude": 48.470478,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O1JJ4",
+    "longitude": 7.243542,
+    "latitude": 50.233676,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-59NIZ",
+    "longitude": 7.896359,
+    "latitude": 51.637667,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-88XLJ",
+    "longitude": 13.625934,
+    "latitude": 48.639596,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EMZSA",
+    "longitude": 7.296587,
+    "latitude": 52.124808,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PDJKA",
+    "longitude": 14.53562,
+    "latitude": 50.109677,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-POJWZ",
+    "longitude": 5.951018,
+    "latitude": 50.814537,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VINAM",
+    "longitude": 15.084115,
+    "latitude": 51.138523,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZJ22K",
+    "longitude": 11.524492,
+    "latitude": 51.654372,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2J50L",
+    "longitude": 7.211331,
+    "latitude": 54.82402,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JBKFK",
+    "longitude": 7.209718,
+    "latitude": 48.575628,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VQCF6",
+    "longitude": 6.896976,
+    "latitude": 47.938975,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GTWA0",
+    "longitude": 10.343328,
+    "latitude": 51.363267,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QP4J1",
+    "longitude": 11.520227,
+    "latitude": 49.876551,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q23JK",
+    "longitude": 8.02156,
+    "latitude": 48.91789,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DNVMP",
+    "longitude": 8.980242,
+    "latitude": 54.426297,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UN5NO",
+    "longitude": 9.394744,
+    "latitude": 48.673306,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OQZ4G",
+    "longitude": 13.8155,
+    "latitude": 51.551911,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y22M8",
+    "longitude": 5.989446,
+    "latitude": 50.434993,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-86QVM",
+    "longitude": 5.866093,
+    "latitude": 53.060274,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TQTPQ",
+    "longitude": 14.938822,
+    "latitude": 54.135007,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DXTC4",
+    "longitude": 9.245192,
+    "latitude": 54.176995,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HU2BQ",
+    "longitude": 11.910268,
+    "latitude": 48.323947,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EGGRW",
+    "longitude": 11.312189,
+    "latitude": 47.39313,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BKMAL",
+    "longitude": 8.340758,
+    "latitude": 53.894013,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7XAN6",
+    "longitude": 11.521412,
+    "latitude": 48.760729,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QYH6U",
+    "longitude": 13.094608,
+    "latitude": 48.312898,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XK8I1",
+    "longitude": 12.483791,
+    "latitude": 47.997986,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3HYI0",
+    "longitude": 14.501082,
+    "latitude": 52.601314,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O21AL",
+    "longitude": 14.570056,
+    "latitude": 47.903837,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TGKKS",
+    "longitude": 6.882141,
+    "latitude": 50.517904,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RT6B2",
+    "longitude": 11.134381,
+    "latitude": 53.629605,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z3SE4",
+    "longitude": 9.275605,
+    "latitude": 53.698945,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IP9DF",
+    "longitude": 13.928656,
+    "latitude": 48.641721,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QOOEK",
+    "longitude": 12.378227,
+    "latitude": 50.860492,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FIK4S",
+    "longitude": 14.877199,
+    "latitude": 53.653521,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EFHMO",
+    "longitude": 8.505286,
+    "latitude": 49.366573,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J8JMH",
+    "longitude": 7.102762,
+    "latitude": 49.31109,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-93G5P",
+    "longitude": 14.832343,
+    "latitude": 53.034983,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K9ECS",
+    "longitude": 9.045807,
+    "latitude": 54.823523,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5NV5I",
+    "longitude": 10.876471,
+    "latitude": 52.716189,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HRA3L",
+    "longitude": 9.92304,
+    "latitude": 54.102393,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F40Y2",
+    "longitude": 12.384792,
+    "latitude": 54.79283,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N7NJ1",
+    "longitude": 14.765052,
+    "latitude": 54.869905,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8GOZJ",
+    "longitude": 9.795412,
+    "latitude": 52.903509,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-67JW5",
+    "longitude": 10.890324,
+    "latitude": 54.210684,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4R8G0",
+    "longitude": 12.901348,
+    "latitude": 54.054515,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-URLOP",
+    "longitude": 13.280323,
+    "latitude": 49.855345,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2OP70",
+    "longitude": 12.1188,
+    "latitude": 48.976711,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O72NO",
+    "longitude": 13.251619,
+    "latitude": 49.107554,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QR5CJ",
+    "longitude": 14.079382,
+    "latitude": 47.454074,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JKGI7",
+    "longitude": 11.859627,
+    "latitude": 47.390935,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DU4LD",
+    "longitude": 7.352606,
+    "latitude": 54.569479,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UGKXY",
+    "longitude": 13.608168,
+    "latitude": 48.467542,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PAZ3Z",
+    "longitude": 14.806597,
+    "latitude": 51.176448,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S898I",
+    "longitude": 7.474449,
+    "latitude": 53.585981,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2MC3E",
+    "longitude": 12.63276,
+    "latitude": 48.250631,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-B9GDH",
+    "longitude": 6.290938,
+    "latitude": 49.008431,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-V1PRY",
+    "longitude": 12.432183,
+    "latitude": 53.24334,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JB2GM",
+    "longitude": 6.513405,
+    "latitude": 50.244613,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4YAQZ",
+    "longitude": 11.286766,
+    "latitude": 53.539111,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZUAO9",
+    "longitude": 8.947468,
+    "latitude": 49.514063,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1NOJH",
+    "longitude": 10.31857,
+    "latitude": 52.431205,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3BYIE",
+    "longitude": 7.510414,
+    "latitude": 54.522572,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2GSEY",
+    "longitude": 12.863362,
+    "latitude": 47.924867,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5JJUB",
+    "longitude": 14.807542,
+    "latitude": 47.488703,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TF9AM",
+    "longitude": 9.748846,
+    "latitude": 50.894806,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2XSSK",
+    "longitude": 7.486093,
+    "latitude": 50.53238,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-D3U3G",
+    "longitude": 6.617054,
+    "latitude": 47.62673,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L57DW",
+    "longitude": 13.245098,
+    "latitude": 47.99002,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WG26R",
+    "longitude": 10.579944,
+    "latitude": 54.552008,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ERJOF",
+    "longitude": 11.578174,
+    "latitude": 53.421104,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S824U",
+    "longitude": 15.054686,
+    "latitude": 51.734186,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YET8T",
+    "longitude": 9.994726,
+    "latitude": 49.456022,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TI6F9",
+    "longitude": 9.381175,
+    "latitude": 47.552518,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y7C0B",
+    "longitude": 14.172256,
+    "latitude": 48.294457,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PP0UW",
+    "longitude": 10.136877,
+    "latitude": 53.984669,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Z1206",
+    "longitude": 11.948629,
+    "latitude": 54.680552,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ORQET",
+    "longitude": 8.390317,
+    "latitude": 48.671812,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C2KAW",
+    "longitude": 9.085643,
+    "latitude": 50.186762,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5609M",
+    "longitude": 10.87753,
+    "latitude": 53.609423,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JZF7Z",
+    "longitude": 14.166548,
+    "latitude": 51.801927,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-USH07",
+    "longitude": 11.355264,
+    "latitude": 50.399363,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OM42Y",
+    "longitude": 9.922971,
+    "latitude": 47.609067,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UNN0K",
+    "longitude": 10.958163,
+    "latitude": 48.915719,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-50WIT",
+    "longitude": 8.480141,
+    "latitude": 48.868453,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NWVSJ",
+    "longitude": 14.604518,
+    "latitude": 49.456382,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-33WW6",
+    "longitude": 7.083477,
+    "latitude": 53.023849,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VFEHP",
+    "longitude": 13.719496,
+    "latitude": 52.87315,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZYJH2",
+    "longitude": 12.75437,
+    "latitude": 54.284805,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PC8K2",
+    "longitude": 9.491475,
+    "latitude": 49.48412,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UIJH2",
+    "longitude": 8.683254,
+    "latitude": 52.11801,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I1LGG",
+    "longitude": 12.384389,
+    "latitude": 52.063386,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WMSNC",
+    "longitude": 14.905819,
+    "latitude": 53.059549,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WY4YC",
+    "longitude": 9.93871,
+    "latitude": 52.77796,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-W8LPL",
+    "longitude": 11.356498,
+    "latitude": 47.41068,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7GT2M",
+    "longitude": 6.229933,
+    "latitude": 50.304084,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PJXOR",
+    "longitude": 8.154373,
+    "latitude": 51.248332,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CTICG",
+    "longitude": 8.321744,
+    "latitude": 52.658205,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2RSC2",
+    "longitude": 14.086411,
+    "latitude": 52.030946,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3MGFC",
+    "longitude": 6.252354,
+    "latitude": 53.014302,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A3KX8",
+    "longitude": 11.413037,
+    "latitude": 48.284961,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HYN2Z",
+    "longitude": 7.744846,
+    "latitude": 48.304294,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E7AZ3",
+    "longitude": 10.289408,
+    "latitude": 48.988256,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OSPRI",
+    "longitude": 13.152761,
+    "latitude": 49.401934,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VNT5W",
+    "longitude": 14.815499,
+    "latitude": 50.100741,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R2XBE",
+    "longitude": 14.364424,
+    "latitude": 54.895437,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C3G6W",
+    "longitude": 6.583862,
+    "latitude": 47.572879,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I68ET",
+    "longitude": 10.900639,
+    "latitude": 54.696688,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R18CK",
+    "longitude": 13.121087,
+    "latitude": 51.514777,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HI12D",
+    "longitude": 9.725878,
+    "latitude": 53.200908,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R4OBJ",
+    "longitude": 10.051447,
+    "latitude": 54.229638,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OC4SZ",
+    "longitude": 11.707825,
+    "latitude": 53.804874,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BAUWR",
+    "longitude": 9.973162,
+    "latitude": 48.344473,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AJKSJ",
+    "longitude": 7.752829,
+    "latitude": 50.100583,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RZQQA",
+    "longitude": 7.827063,
+    "latitude": 53.297008,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Q9ERL",
+    "longitude": 6.249688,
+    "latitude": 50.082791,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JLRP5",
+    "longitude": 13.054177,
+    "latitude": 50.613287,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NDYQ8",
+    "longitude": 11.352306,
+    "latitude": 54.729222,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AL6O5",
+    "longitude": 8.397913,
+    "latitude": 52.921914,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7D7XP",
+    "longitude": 13.799211,
+    "latitude": 51.893312,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9HIKL",
+    "longitude": 8.325921,
+    "latitude": 51.432191,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3L62G",
+    "longitude": 10.098121,
+    "latitude": 54.659423,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CE325",
+    "longitude": 7.127675,
+    "latitude": 47.689689,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TJHH7",
+    "longitude": 6.664045,
+    "latitude": 52.854464,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9EPW9",
+    "longitude": 6.809895,
+    "latitude": 53.058515,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RHGAG",
+    "longitude": 11.421547,
+    "latitude": 53.951546,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LBKDG",
+    "longitude": 14.07839,
+    "latitude": 50.170476,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DJZ3F",
+    "longitude": 7.385415,
+    "latitude": 53.194932,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-91WCP",
+    "longitude": 10.309782,
+    "latitude": 54.558828,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7TK8Z",
+    "longitude": 9.182348,
+    "latitude": 53.576259,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C9WZ9",
+    "longitude": 9.504949,
+    "latitude": 52.801426,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3U45Q",
+    "longitude": 12.585423,
+    "latitude": 48.255138,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NIGP2",
+    "longitude": 12.407849,
+    "latitude": 50.993084,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WMTZE",
+    "longitude": 5.854768,
+    "latitude": 48.208034,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IZ6IG",
+    "longitude": 8.008464,
+    "latitude": 49.961375,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ULU3B",
+    "longitude": 9.957054,
+    "latitude": 47.763988,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E4Y6C",
+    "longitude": 8.831608,
+    "latitude": 47.437312,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QL2J4",
+    "longitude": 7.13143,
+    "latitude": 52.153371,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FOTSU",
+    "longitude": 9.718709,
+    "latitude": 52.691652,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8IHW2",
+    "longitude": 14.090777,
+    "latitude": 53.693186,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L1MJT",
+    "longitude": 7.095772,
+    "latitude": 48.271803,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8F3EV",
+    "longitude": 8.768185,
+    "latitude": 51.036442,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YOJPP",
+    "longitude": 12.224089,
+    "latitude": 50.703277,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1N7H0",
+    "longitude": 11.37603,
+    "latitude": 49.087247,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-M99U7",
+    "longitude": 6.047167,
+    "latitude": 47.960201,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1RZC7",
+    "longitude": 9.5191,
+    "latitude": 49.511578,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-Y8TAE",
+    "longitude": 6.207599,
+    "latitude": 48.249576,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-O8W9Q",
+    "longitude": 14.475634,
+    "latitude": 52.966841,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P1KMT",
+    "longitude": 6.055798,
+    "latitude": 48.272649,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-RBP7A",
+    "longitude": 8.273416,
+    "latitude": 47.664465,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IAHIP",
+    "longitude": 12.171836,
+    "latitude": 52.04087,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U0OAZ",
+    "longitude": 14.529217,
+    "latitude": 54.148474,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4VUZB",
+    "longitude": 8.471876,
+    "latitude": 48.617154,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EHCDM",
+    "longitude": 9.964229,
+    "latitude": 54.00874,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SSOWU",
+    "longitude": 12.741017,
+    "latitude": 50.936123,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AA3XA",
+    "longitude": 8.013651,
+    "latitude": 53.543773,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ENXYE",
+    "longitude": 9.390842,
+    "latitude": 50.968362,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KVAMW",
+    "longitude": 12.839882,
+    "latitude": 53.816982,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TDBTZ",
+    "longitude": 10.480165,
+    "latitude": 54.78015,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K3DI2",
+    "longitude": 12.905106,
+    "latitude": 50.158801,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ILPNX",
+    "longitude": 6.535851,
+    "latitude": 51.306678,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-83HFO",
+    "longitude": 12.042758,
+    "latitude": 52.645983,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5GM75",
+    "longitude": 12.383491,
+    "latitude": 51.503614,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-62H5Q",
+    "longitude": 13.206529,
+    "latitude": 50.001346,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PAKVI",
+    "longitude": 13.107093,
+    "latitude": 52.425158,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JBGS1",
+    "longitude": 8.24039,
+    "latitude": 48.106231,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2U0U5",
+    "longitude": 12.977188,
+    "latitude": 54.84904,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-69RTR",
+    "longitude": 9.422104,
+    "latitude": 52.984649,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MTUFQ",
+    "longitude": 12.258704,
+    "latitude": 51.758353,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-020CE",
+    "longitude": 12.564447,
+    "latitude": 54.493753,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4HI1V",
+    "longitude": 14.194673,
+    "latitude": 51.588095,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DVRQZ",
+    "longitude": 10.556775,
+    "latitude": 50.462483,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6LA4A",
+    "longitude": 11.76915,
+    "latitude": 52.798156,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FK7GB",
+    "longitude": 8.649581,
+    "latitude": 47.543254,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X06HL",
+    "longitude": 10.708154,
+    "latitude": 52.335827,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OJZ4Q",
+    "longitude": 13.19848,
+    "latitude": 52.812164,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YPBF6",
+    "longitude": 7.908444,
+    "latitude": 49.788153,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EWWVS",
+    "longitude": 10.839682,
+    "latitude": 49.589371,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I0IMZ",
+    "longitude": 12.904664,
+    "latitude": 52.117792,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZR5V7",
+    "longitude": 10.099058,
+    "latitude": 51.861583,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AL4SE",
+    "longitude": 9.805273,
+    "latitude": 52.032042,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J1J5J",
+    "longitude": 9.615914,
+    "latitude": 50.646499,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-60SWB",
+    "longitude": 14.901662,
+    "latitude": 53.167651,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L11VP",
+    "longitude": 9.599804,
+    "latitude": 48.88381,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7TTYY",
+    "longitude": 14.636275,
+    "latitude": 53.494659,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1047H",
+    "longitude": 7.021827,
+    "latitude": 47.865469,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-22NVS",
+    "longitude": 12.924153,
+    "latitude": 53.454907,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LIHL7",
+    "longitude": 6.712109,
+    "latitude": 51.084622,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3VKPB",
+    "longitude": 6.870716,
+    "latitude": 50.633195,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JHUG3",
+    "longitude": 13.826331,
+    "latitude": 48.229661,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L7TE2",
+    "longitude": 6.767096,
+    "latitude": 53.30477,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6H73O",
+    "longitude": 7.805901,
+    "latitude": 54.863918,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KAEQM",
+    "longitude": 6.151685,
+    "latitude": 50.954717,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AWI8N",
+    "longitude": 13.839609,
+    "latitude": 49.091654,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2YK3C",
+    "longitude": 8.769968,
+    "latitude": 47.444202,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OPLB1",
+    "longitude": 9.596604,
+    "latitude": 54.644847,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-41NUF",
+    "longitude": 11.407983,
+    "latitude": 50.053168,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UTGP5",
+    "longitude": 6.731688,
+    "latitude": 54.166813,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6RIT8",
+    "longitude": 11.748317,
+    "latitude": 54.845816,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-P7FHO",
+    "longitude": 9.051589,
+    "latitude": 54.728348,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5TB98",
+    "longitude": 13.922523,
+    "latitude": 48.08548,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L5CS6",
+    "longitude": 11.129957,
+    "latitude": 48.634215,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JNQRE",
+    "longitude": 8.574077,
+    "latitude": 49.200374,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SBCW6",
+    "longitude": 14.261112,
+    "latitude": 52.745095,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HX4NH",
+    "longitude": 10.788177,
+    "latitude": 50.908622,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-A2GNG",
+    "longitude": 8.284257,
+    "latitude": 53.174914,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EB3N2",
+    "longitude": 7.342595,
+    "latitude": 50.286999,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PRC2V",
+    "longitude": 6.878902,
+    "latitude": 47.369962,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JXI7J",
+    "longitude": 13.010872,
+    "latitude": 49.904485,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TDQ8O",
+    "longitude": 11.525785,
+    "latitude": 49.273052,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-V8GDF",
+    "longitude": 8.597454,
+    "latitude": 52.031973,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PR9DN",
+    "longitude": 7.273338,
+    "latitude": 52.973418,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J4KRK",
+    "longitude": 11.963992,
+    "latitude": 50.78693,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NO0HT",
+    "longitude": 6.025908,
+    "latitude": 52.327485,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MS2ZE",
+    "longitude": 8.463642,
+    "latitude": 49.645962,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1QZZ8",
+    "longitude": 9.141952,
+    "latitude": 49.706562,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LVZQJ",
+    "longitude": 11.108444,
+    "latitude": 54.566356,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KT7LF",
+    "longitude": 11.051217,
+    "latitude": 48.692464,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-30O4E",
+    "longitude": 11.217092,
+    "latitude": 53.837643,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TZLIF",
+    "longitude": 14.690965,
+    "latitude": 54.10179,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NHM90",
+    "longitude": 10.23611,
+    "latitude": 48.967343,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IPH6F",
+    "longitude": 10.946467,
+    "latitude": 54.423818,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DHJQ6",
+    "longitude": 14.952432,
+    "latitude": 48.370538,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-78OXR",
+    "longitude": 13.200829,
+    "latitude": 54.577613,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DEZQQ",
+    "longitude": 7.051048,
+    "latitude": 51.175869,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9YMT9",
+    "longitude": 10.616386,
+    "latitude": 51.617028,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-7IWF3",
+    "longitude": 11.457084,
+    "latitude": 50.283265,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5QX6Q",
+    "longitude": 6.37344,
+    "latitude": 47.713166,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HN6KM",
+    "longitude": 14.81955,
+    "latitude": 49.329103,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9J7MI",
+    "longitude": 5.944882,
+    "latitude": 52.680308,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5QYDI",
+    "longitude": 14.51995,
+    "latitude": 48.115511,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-42BOW",
+    "longitude": 11.788485,
+    "latitude": 53.525126,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KTT1J",
+    "longitude": 9.913115,
+    "latitude": 53.971319,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-W9YIW",
+    "longitude": 13.677916,
+    "latitude": 47.617548,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5JJYX",
+    "longitude": 12.23261,
+    "latitude": 54.020084,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6K6KG",
+    "longitude": 10.365017,
+    "latitude": 50.112137,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9VSCP",
+    "longitude": 5.820897,
+    "latitude": 49.843721,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J74YC",
+    "longitude": 7.508804,
+    "latitude": 52.126959,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XKMPM",
+    "longitude": 8.199974,
+    "latitude": 52.986124,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BNMOR",
+    "longitude": 13.064112,
+    "latitude": 52.033176,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QKLWF",
+    "longitude": 12.977786,
+    "latitude": 50.421832,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YDPNY",
+    "longitude": 13.671941,
+    "latitude": 52.456426,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-SMKM8",
+    "longitude": 13.246923,
+    "latitude": 48.860802,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-24FIM",
+    "longitude": 10.008368,
+    "latitude": 53.781204,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-18P3E",
+    "longitude": 9.13698,
+    "latitude": 47.369951,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GFTUW",
+    "longitude": 7.216146,
+    "latitude": 49.176908,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EIMW5",
+    "longitude": 6.611524,
+    "latitude": 50.618773,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ASGI9",
+    "longitude": 11.589396,
+    "latitude": 51.797396,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MADYI",
+    "longitude": 6.489883,
+    "latitude": 50.036522,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GAVXS",
+    "longitude": 12.38337,
+    "latitude": 53.424518,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NARYN",
+    "longitude": 12.166743,
+    "latitude": 51.140219,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IHK3X",
+    "longitude": 13.681222,
+    "latitude": 50.641913,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U9IJS",
+    "longitude": 11.28766,
+    "latitude": 54.522052,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ILUJ8",
+    "longitude": 5.828629,
+    "latitude": 50.283431,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L0RGY",
+    "longitude": 7.021961,
+    "latitude": 54.275974,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XQBPM",
+    "longitude": 5.95589,
+    "latitude": 51.279274,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-46OWK",
+    "longitude": 7.697387,
+    "latitude": 47.449896,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2S4PU",
+    "longitude": 9.987039,
+    "latitude": 49.095216,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BNRS6",
+    "longitude": 10.335658,
+    "latitude": 52.0511,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-30T6Y",
+    "longitude": 15.028784,
+    "latitude": 54.63041,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2BYYA",
+    "longitude": 12.126237,
+    "latitude": 49.366655,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MPSP2",
+    "longitude": 9.48786,
+    "latitude": 49.536981,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-S4KUL",
+    "longitude": 10.255462,
+    "latitude": 49.621176,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UELZP",
+    "longitude": 10.791617,
+    "latitude": 50.389565,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BHVUP",
+    "longitude": 9.47637,
+    "latitude": 49.592107,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HX15Z",
+    "longitude": 8.272594,
+    "latitude": 52.419088,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VVRU2",
+    "longitude": 10.930121,
+    "latitude": 48.967648,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YOTR1",
+    "longitude": 10.42179,
+    "latitude": 49.559666,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-731V4",
+    "longitude": 12.847929,
+    "latitude": 51.062093,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OEZU0",
+    "longitude": 12.182847,
+    "latitude": 47.547784,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-FP3ZI",
+    "longitude": 14.688186,
+    "latitude": 54.334526,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DMV5E",
+    "longitude": 5.8604,
+    "latitude": 51.250536,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-WKEZK",
+    "longitude": 6.871866,
+    "latitude": 48.772811,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NQF9V",
+    "longitude": 10.695188,
+    "latitude": 49.375047,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-L1P6R",
+    "longitude": 13.034683,
+    "latitude": 49.707763,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-X6DED",
+    "longitude": 12.661454,
+    "latitude": 48.358061,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YDXSJ",
+    "longitude": 10.010739,
+    "latitude": 49.851211,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F5GMY",
+    "longitude": 12.11916,
+    "latitude": 49.016128,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K2SPY",
+    "longitude": 7.659362,
+    "latitude": 47.698428,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LWQV2",
+    "longitude": 9.14866,
+    "latitude": 48.31567,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CC5L8",
+    "longitude": 8.959119,
+    "latitude": 51.642746,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-TXKLJ",
+    "longitude": 12.440041,
+    "latitude": 51.893622,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K7528",
+    "longitude": 12.563135,
+    "latitude": 53.913314,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VJ3VT",
+    "longitude": 15.0844,
+    "latitude": 49.744657,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-5XD83",
+    "longitude": 8.435704,
+    "latitude": 51.437752,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QNFGT",
+    "longitude": 9.417475,
+    "latitude": 53.187581,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AZJGR",
+    "longitude": 10.28022,
+    "latitude": 48.76707,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R89MW",
+    "longitude": 10.920172,
+    "latitude": 54.113588,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-OSW2U",
+    "longitude": 9.590973,
+    "latitude": 47.6608,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N6NDR",
+    "longitude": 6.086365,
+    "latitude": 47.816802,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-UP9X6",
+    "longitude": 14.623275,
+    "latitude": 53.817309,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8F5AT",
+    "longitude": 12.634226,
+    "latitude": 47.486765,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-HW3VO",
+    "longitude": 10.371099,
+    "latitude": 48.940078,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-740BK",
+    "longitude": 10.048048,
+    "latitude": 54.30853,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MZ0WJ",
+    "longitude": 9.604705,
+    "latitude": 50.599029,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YXVQC",
+    "longitude": 14.851912,
+    "latitude": 49.192376,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-61A4N",
+    "longitude": 14.199008,
+    "latitude": 48.908933,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F9X7T",
+    "longitude": 14.01755,
+    "latitude": 50.243033,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-F7S5O",
+    "longitude": 13.2233,
+    "latitude": 47.417739,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-R4OT0",
+    "longitude": 8.440337,
+    "latitude": 48.448674,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8QYFE",
+    "longitude": 6.698853,
+    "latitude": 49.364512,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-AXR4R",
+    "longitude": 10.604722,
+    "latitude": 48.4763,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2X8ID",
+    "longitude": 9.296726,
+    "latitude": 53.06093,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PVMI0",
+    "longitude": 10.468639,
+    "latitude": 51.849798,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-C38B1",
+    "longitude": 12.484733,
+    "latitude": 52.759497,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MLG4Y",
+    "longitude": 12.134388,
+    "latitude": 54.055955,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-CZ7G0",
+    "longitude": 7.265716,
+    "latitude": 50.024386,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IPTNX",
+    "longitude": 7.912581,
+    "latitude": 53.345881,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-PVMNJ",
+    "longitude": 9.169347,
+    "latitude": 52.316926,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-50DTI",
+    "longitude": 12.433869,
+    "latitude": 48.005801,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3P7Q4",
+    "longitude": 6.220867,
+    "latitude": 54.632989,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-YQUZD",
+    "longitude": 12.094303,
+    "latitude": 53.924522,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LSN4D",
+    "longitude": 10.906848,
+    "latitude": 53.895933,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KOL1M",
+    "longitude": 7.639967,
+    "latitude": 49.477308,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LYTB6",
+    "longitude": 12.788577,
+    "latitude": 48.386423,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-6P5OL",
+    "longitude": 12.907348,
+    "latitude": 53.397711,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-QW85D",
+    "longitude": 7.170266,
+    "latitude": 50.372807,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZIBLC",
+    "longitude": 13.426097,
+    "latitude": 54.134862,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-LUAB7",
+    "longitude": 11.905551,
+    "latitude": 52.210791,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-N9H1C",
+    "longitude": 7.532293,
+    "latitude": 50.598212,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ABM77",
+    "longitude": 13.478713,
+    "latitude": 50.626995,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-3QC5Y",
+    "longitude": 8.738179,
+    "latitude": 51.055808,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MTKMS",
+    "longitude": 6.841767,
+    "latitude": 51.3414,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-V9QWE",
+    "longitude": 11.772918,
+    "latitude": 53.808055,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-IB8NH",
+    "longitude": 14.084157,
+    "latitude": 52.264263,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-2092G",
+    "longitude": 9.217748,
+    "latitude": 50.220729,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-I215A",
+    "longitude": 9.163113,
+    "latitude": 50.895103,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-W6QAM",
+    "longitude": 9.571062,
+    "latitude": 50.550123,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-K3YWN",
+    "longitude": 7.010879,
+    "latitude": 48.040834,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VOGGF",
+    "longitude": 13.758109,
+    "latitude": 49.296498,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-DFCZ3",
+    "longitude": 8.043896,
+    "latitude": 52.295153,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-63QSK",
+    "longitude": 12.250567,
+    "latitude": 47.747038,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GBQR6",
+    "longitude": 6.670998,
+    "latitude": 51.356964,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-ZEHVU",
+    "longitude": 8.519659,
+    "latitude": 49.681178,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-JFAKI",
+    "longitude": 9.821947,
+    "latitude": 54.646066,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-9D0XW",
+    "longitude": 8.69245,
+    "latitude": 54.862861,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-J1XCB",
+    "longitude": 6.543312,
+    "latitude": 47.9481,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-H0YIQ",
+    "longitude": 12.304976,
+    "latitude": 48.955025,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KAFPN",
+    "longitude": 9.257809,
+    "latitude": 51.153013,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-E02IL",
+    "longitude": 13.069532,
+    "latitude": 53.278329,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4ZT53",
+    "longitude": 12.774482,
+    "latitude": 48.191302,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XVUUA",
+    "longitude": 5.863518,
+    "latitude": 53.613846,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MLE3C",
+    "longitude": 6.127078,
+    "latitude": 52.025201,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-U27FS",
+    "longitude": 9.642891,
+    "latitude": 53.889232,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-KCNT6",
+    "longitude": 13.074848,
+    "latitude": 49.843596,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-NS6FM",
+    "longitude": 9.972989,
+    "latitude": 51.598833,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-0SZXM",
+    "longitude": 12.973825,
+    "latitude": 54.888762,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-211SE",
+    "longitude": 9.322043,
+    "latitude": 53.155876,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-MLSMR",
+    "longitude": 6.584378,
+    "latitude": 51.147873,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-GGYSG",
+    "longitude": 8.93861,
+    "latitude": 50.157151,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-4198Y",
+    "longitude": 14.988328,
+    "latitude": 48.092425,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-BI5FG",
+    "longitude": 15.094708,
+    "latitude": 50.938289,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-VOIPN",
+    "longitude": 10.522309,
+    "latitude": 54.633435,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-1B7OV",
+    "longitude": 14.136253,
+    "latitude": 48.940085,
+    "asset-type": "Helium",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-EERZJ",
+    "longitude": 6.368447,
+    "latitude": 52.62435,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-8H1JI",
+    "longitude": 11.570698,
+    "latitude": 53.846222,
+    "asset-type": "Gas",
+    "alarm-status": "none"
+  },
+  {
+    "name": "Tank-XVX08",
+    "longitude": 8.393197,
+    "latitude": 48.737079,
+    "asset-type": "Gas",
+    "alarm-status": "minor"
+  },
+  {
+    "name": "Tank-VJC3A",
+    "longitude": 9.086313,
+    "latitude": 51.996057,
+    "asset-type": "Helium",
+    "alarm-status": "minor"
+  },
+  {
+    "name": "Tank-9MUZC",
+    "longitude": 13.249425,
+    "latitude": 47.329097,
+    "asset-type": "Gas",
+    "alarm-status": "minor"
+  },
+  {
+    "name": "Tank-NZF1Y",
+    "longitude": 10.392161,
+    "latitude": 53.785723,
+    "asset-type": "Gas",
+    "alarm-status": "major"
+  },
+  {
+    "name": "Tank-89TDR",
+    "longitude": 9.471871,
+    "latitude": 52.284623,
+    "asset-type": "Helium",
+    "alarm-status": "major"
+  },
+  {
+    "name": "Tank-M9LKW",
+    "longitude": 9.022427,
+    "latitude": 53.338391,
+    "asset-type": "Helium",
+    "alarm-status": "major"
+  },
+  {
+    "name": "Tank-7V37K",
+    "longitude": 12.533913,
+    "latitude": 53.783824,
+    "asset-type": "Gas",
+    "alarm-status": "critical"
+  },
+  {
+    "name": "Tank-F7626",
+    "longitude": 14.743658,
+    "latitude": 50.636188,
+    "asset-type": "Helium",
+    "alarm-status": "critical"
+  },
+  {
+    "name": "Tank-KP8YN",
+    "longitude": 6.342692,
+    "latitude": 51.855559,
+    "asset-type": "Helium",
+    "alarm-status": "critical"
+  }
+]
